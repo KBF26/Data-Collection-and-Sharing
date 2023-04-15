@@ -1,5 +1,5 @@
 # Data-Collection-and-Sharing
-In this project I collected a dataset (anonymous questionnaire) for Statistics of Information Science. I asked 10 people these questions:
+In this project I collected a dataset (anonymous questionnaire) for my Statistics of Information Science class. I asked 10 people these questions:
 
 Q1: There is widespread mental health epidemics, problems such as depression and anxiety and many more. But WHY? In our opinion, what is the leading cause and what is the second-leading cause of this collective increase? For each of them can you briefly mention how that factor leads to a mental health problem?
 
